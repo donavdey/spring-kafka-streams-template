@@ -1,0 +1,4 @@
+stream:
+  num-stream-threads: 1
+  bootstrap-servers: broker:9092
+  group-id: "example"
